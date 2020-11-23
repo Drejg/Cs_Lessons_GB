@@ -5,9 +5,9 @@ VisualStudioVersion = 16.0.30711.63
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cs_Les_1_1_Anketa", "Cs_Les_1_1_Anketa\Cs_Les_1_1_Anketa.csproj", "{AE54F2F5-C01B-4707-9931-A520108AD0B0}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{552506AE-428A-483A-9453-C95AC09E7A52}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tasks", "Tasks", "{552506AE-428A-483A-9453-C95AC09E7A52}"
 	ProjectSection(SolutionItems) = preProject
-		Tasks_1.txt = Tasks_1.txt
+		Les_tasks_1.txt = Les_tasks_1.txt
 	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cs_Les_1_2_IMT", "Cs_Les_1_2_IMT\Cs_Les_1_2_IMT.csproj", "{C021B3DC-B948-4CB2-AB1E-0A8389847E91}"
