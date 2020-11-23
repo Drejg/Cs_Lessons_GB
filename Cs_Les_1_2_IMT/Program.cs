@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Cs_Les_1_2_IMT
 {
@@ -12,14 +8,14 @@ namespace Cs_Les_1_2_IMT
         {
             //2. Ввести вес и рост человека. Рассчитать и вывести индекс массы тела (ИМТ) по формуле I=m/(h*h); где m — масса тела в килограммах, h — рост в метрах
             Console.WriteLine("Укажите Ваш рост (в метрах):");
-            double height = Convert.ToDouble(Console.ReadLine().Replace(".",","));
+            double height = Convert.ToDouble(Console.ReadLine().Replace(".", ","));
 
             Console.WriteLine("Укажите Ваш вес (в килограммах):");
             int weight = Convert.ToInt32(Console.ReadLine());
 
             Console.WriteLine("\n");
 
-            double imt = weight / (height * height); 
+            double imt = weight / (height * height);
 
             Console.WriteLine($"Ваш индекс массы тела (ИМТ): {imt:.00}");
 

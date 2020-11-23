@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Cs_Les_1_1_Anketa
 {
@@ -16,7 +12,7 @@ namespace Cs_Les_1_1_Anketa
 
             Console.WriteLine("Назовите Вашу фамилию:");
             string lname = Console.ReadLine();
-            
+
             Console.WriteLine("Укажите цифрами Ваш возраст (полных лет):");
             int age = Convert.ToInt32(Console.ReadLine());
 
