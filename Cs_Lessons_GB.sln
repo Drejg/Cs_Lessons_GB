@@ -8,6 +8,7 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tasks", "Tasks", "{552506AE-428A-483A-9453-C95AC09E7A52}"
 	ProjectSection(SolutionItems) = preProject
 		Les_tasks_1.txt = Les_tasks_1.txt
+		Les_tasks_2.txt = Les_tasks_2.txt
 	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cs_Les_1_2_IMT", "Cs_Les_1_2_IMT\Cs_Les_1_2_IMT.csproj", "{C021B3DC-B948-4CB2-AB1E-0A8389847E91}"

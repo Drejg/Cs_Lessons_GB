@@ -2,9 +2,9 @@
 
 namespace Cs_Les_1_5_Output_on_display
 {
-    class Program
+    internal class Program
     {
-        static void Main(string[] args)
+        private static void Main(string[] args)
         {
             //Написать программу, которая выводит на экран ваше имя, фамилию и город проживания.
             string fname = "Владимир";
@@ -19,20 +19,7 @@ namespace Cs_Les_1_5_Output_on_display
             //TODO Доделать два блока
             //в) *Сделать задание б с использованием собственных методов(например, Print(string ms, int x, int y)
 
-
             //6. * Создать класс с методами, которые могут пригодиться в вашей учебе(Print, Pause).
-
-
-
-
-
-
-
-
-
-
-
-
 
             Console.ReadKey();
         }
