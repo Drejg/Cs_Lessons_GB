@@ -19,6 +19,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cs_Les_1_4_Exchange", "Cs_L
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cs_Les_1_5_Output_on_display", "Cs_Les_1_5_Output_on_display\Cs_Les_1_5_Output_on_display.csproj", "{29590708-BA30-42B1-8482-3C286AFF1D21}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "From_the_lesson_3", "Lesson_4\From_the_lesson_3.csproj", "{F1E94B1F-93AB-4FD3-911F-801878032102}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "From_the_lesson_2", "ConsoleApp1\From_the_lesson_2.csproj", "{D9F455CA-CB29-42CA-90DB-B89A31F6F388}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +49,14 @@ Global
 		{29590708-BA30-42B1-8482-3C286AFF1D21}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{29590708-BA30-42B1-8482-3C286AFF1D21}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{29590708-BA30-42B1-8482-3C286AFF1D21}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1E94B1F-93AB-4FD3-911F-801878032102}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1E94B1F-93AB-4FD3-911F-801878032102}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1E94B1F-93AB-4FD3-911F-801878032102}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1E94B1F-93AB-4FD3-911F-801878032102}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9F455CA-CB29-42CA-90DB-B89A31F6F388}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9F455CA-CB29-42CA-90DB-B89A31F6F388}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9F455CA-CB29-42CA-90DB-B89A31F6F388}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9F455CA-CB29-42CA-90DB-B89A31F6F388}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

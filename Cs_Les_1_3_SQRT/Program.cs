@@ -38,7 +38,6 @@ namespace Cs_Les_1_3_SQRT
             Console.WriteLine(coordinate_2(x1, y1, x2, y2).ToString("f2"));
 
             Console.ReadKey();
-            //TODO Доделать в метод
             double Coordinate(int _x1, int _y1, int _x2, int _y2)
             {
                 return Math.Sqrt(Math.Pow(_x2 - _x1, 2) + Math.Pow(_y2 - _y1, 2));
