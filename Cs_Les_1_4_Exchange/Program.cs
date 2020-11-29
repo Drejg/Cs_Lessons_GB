@@ -32,11 +32,10 @@ namespace Cs_Les_1_4_Exchange
 
             Console.WriteLine($"Вжух ещё раз... и в переменой X теперь: {x}, а в Y: {y}");
 
-
             Console.WriteLine("\n");
             Console.ReadKey();
 
-
+            
         }
     }
 }

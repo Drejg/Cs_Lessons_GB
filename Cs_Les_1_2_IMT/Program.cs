@@ -15,7 +15,7 @@ namespace Cs_Les_1_2_IMT
 
             Console.WriteLine("\n");
 
-            double imt = weight / (height * height);
+            double imt = (double) weight / (height * height);
 
             Console.WriteLine($"Ваш индекс массы тела (ИМТ): {imt:.00}");
 
