@@ -33,6 +33,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cs_Les_2_4_LoginPass", "Cs_
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cs_Les_2_5_IMT", "Cs_Les_2_5_IMT\Cs_Les_2_5_IMT.csproj", "{83EE4552-513E-4EDC-AAF5-9DDB5EBB19C9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cs_Les_2_6_GoodSumNumbers", "Cs_Les_2_6_GoodSumNumbers\Cs_Les_2_6_GoodSumNumbers.csproj", "{903C745B-2E28-4F35-919A-6F3BAD80AA07}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cs_Les_2_8_Recursion", "Cs_Les_2_8_Recursion\Cs_Les_2_8_Recursion.csproj", "{B0E34057-3F29-4584-B0B4-B3633D70EA9B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +91,14 @@ Global
 		{83EE4552-513E-4EDC-AAF5-9DDB5EBB19C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{83EE4552-513E-4EDC-AAF5-9DDB5EBB19C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{83EE4552-513E-4EDC-AAF5-9DDB5EBB19C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{903C745B-2E28-4F35-919A-6F3BAD80AA07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{903C745B-2E28-4F35-919A-6F3BAD80AA07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{903C745B-2E28-4F35-919A-6F3BAD80AA07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{903C745B-2E28-4F35-919A-6F3BAD80AA07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0E34057-3F29-4584-B0B4-B3633D70EA9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0E34057-3F29-4584-B0B4-B3633D70EA9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0E34057-3F29-4584-B0B4-B3633D70EA9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0E34057-3F29-4584-B0B4-B3633D70EA9B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
